@@ -1,0 +1,504 @@
+
+/* -- -- -- -- --smaller devices-- -- -- -- -- */
+
+@media (max-width: 765px){
+/*-- -- -- title -- -- --*/
+.jumbotron{
+	background-color:#18335d;
+	color:white;
+	padding:1em 0 0 0;
+	height:11em;
+	width:100%;
+	}
+.navbar{
+	background-color:#18335d;
+	}
+.logo{
+	width:100%;
+	border-top:3px solid #ffce34;
+	border-bottom:3px solid #ffce34;
+	float:left;
+	position:absolute;
+	top:.5em;
+	margin:0;
+	padding:0;
+}
+img{
+	padding: 0em 0 .2em 0;
+	height:30px;
+	margin:0em 0 0em 0;
+	width:50px;
+	}
+/*-- dropdown --*/
+.dropdown{
+	
+	float:right;
+	}
+.glyphicon-th-list{
+	color:white;
+	padding:.8em 0 0 10em;
+	}
+.navbar-header{
+	padding: 1.9em 0 0 0em;
+	text-align:center;
+	}
+.navbar-header h1{
+	text-align:center;
+	
+	font-size:2em;
+	padding:1em 0 0 0;
+	text-transform:uppercase;
+}
+.navbar-header h3{
+	font-size:1em;
+	
+	padding:0 0 1em 0;
+	}
+ /*-- -- -- -- Table-- -- -- --*/
+ .container-table{
+	width:100%;
+	}
+  .table {
+ border:2px solid #131313;
+  width:100%;
+  }
+ .table h3{
+	font-size:1.2em;
+	color:#18335d;
+	margin: -.1em 0 .5em 0;
+	}
+ .table th{
+ border:2px solid #131313;
+	font-size:1em;
+	height:50px;
+	width:400px;
+	padding: 0 3em 0 0;
+	margin: 0 1em 0 0;
+	text-align:center;
+	background-color:#18335d;
+	color:#f4f5f5;
+	}
+.btn-sm{
+	background-color:#00468b;
+	color:#f4f5f5;
+	font-size:.75em;
+	padding: 0 -1em 0 0;
+	margin: 0 -1em .5em 0;
+	width:100%;
+	}
+.btn-sm:hover{
+	background-color:#59b6e6;
+	color:#f4f5f5;
+	border: 2px solid #59b6e6;
+	}
+
+.left-side{
+	width:50%;
+	}
+.right-side{
+	width:50%;
+	padding: 0 1em 0 0;
+	}
+ 
+/*-- -- -- -- Modals -- -- --*/
+.modal-title{
+	font-size:2em;
+	}
+.modal-content{
+	color:white;
+	background-color: #18335d;
+	border:4px solid white;
+	}
+.modal-content a{
+	color: #00468b;
+	margin:0 0 .5em 0;
+	}
+.modal-content a:hover{
+	color: #ffce34;
+	margin:0 0 .5em 0;
+	}
+.modal-body {
+	background-color:#f4f5f5;
+	}
+.modal-body h4{
+	font-size:1.5em;
+	border-bottom:2px solid #00468b;
+	color: #00468b;
+	margin:.5em 0 .5em 0;
+	}
+.modal-body h5{
+	color:#00468b;
+	font-size:1.1em;
+	}
+.menu-btn{
+	font-size:.9em;
+	width:80%;
+	background-color:white;
+	border: 2px solid #18335d;
+	margin: 0 0 .5em 3em;
+	color:#18335d;
+	}
+.advisors{
+text-align:center;
+position:relative;
+	margin: auto;
+	margin-bottom:1em;
+	width:90%;
+	right:15px;
+	}
+/*-- -- -- -- COntact Page-- -- -- --*/
+.contact-btn{
+	width:100%;
+	background-color:#18335d;
+	color:#ffce34;
+	margin:0 0 .4em 0;
+	}
+.contact-btn:hover{
+	color:#18335d;
+	background-color:white;
+	}}		
+	
+@media (min-width: 766px){
+/*-- -- -- title -- -- --*/
+.jumbotron{
+	background-color:#18335d;
+	color:white;
+	padding:1em 0 0 0;
+	height:11em;
+	width:100%;
+	}
+.navbar{
+	background-color:#18335d;
+	}
+.logo{
+	width:100%;
+	border-top:3px solid #ffce34;
+	border-bottom:3px solid #ffce34;
+	float:left;
+	position:absolute;
+}
+img{
+	padding: 1em 0 0em 0;
+	height:50px;
+	margin:-1.4em 0 0em 0;
+	width:60px;
+	}
+/*-- dropdown --*/
+.dropdown{
+	
+	float:right;
+	}
+.glyphicon-th-list{
+	color:white;
+	padding:.8em 0 0 10em;
+	}
+.navbar-header{
+width:100%;
+	padding: 1.9em 0 0 0em;
+	text-align:center;
+	}
+.navbar-header h1{
+	text-align:center;
+	
+	font-size:2em;
+	padding:1em 0 0 0;
+	text-transform:uppercase;
+}
+.navbar-header h3{
+	font-size:1em;
+	
+	padding:0 0 1em 0;
+	}
+ /*-- -- -- -- Table-- -- -- --*/
+ .container-table{
+	width:100%;
+	}
+  .table {
+ border:2px solid #131313;
+  width:100%;
+  }
+ .table h3{
+	font-size:1.2em;
+	color:#18335d;
+	margin: -.1em 0 .5em 0;
+	}
+ .table th{
+ border:2px solid #131313;
+	font-size:1em;
+	height:50px;
+	width:400px;
+	padding: 0 3em 0 0;
+	margin: 0 1em 0 0;
+	text-align:center;
+	background-color:#18335d;
+	color:#f4f5f5;
+	}
+.btn-sm{
+	background-color:#00468b;
+	color:#f4f5f5;
+	font-size:.75em;
+	padding: 0 -1em 0 0;
+	margin: 0 -1em .5em 0;
+	width:100%;
+	}
+.btn-sm:hover{
+	background-color:#59b6e6;
+	color:#f4f5f5;
+	border: 2px solid #59b6e6;
+	}
+
+.left-side{
+	width:50%;
+	}
+.right-side{
+	width:50%;
+	padding: 0 1em 0 0;
+	}
+ 
+/*-- -- -- -- Modals -- -- --*/
+.modal-title{
+	font-size:2em;
+	}
+.modal-content{
+	color:white;
+	background-color: #18335d;
+	border:4px solid white;
+	}
+.modal-content a{
+	color:#00468b;
+	margin:0 0 .5em 0;
+	}
+.modal-content a:hover{
+	color: #ffce34;
+	margin:0 0 .5em 0;
+	}
+.modal-body {
+	background-color:#f4f5f5;
+	}
+.modal-body h4{
+	font-size:1.5em;
+	border-bottom:2px solid #00468b;
+	color: #00468b;
+	margin:.5em 0 .5em 0;
+	
+	}
+	
+.modal-body h5{
+	color:#00468b;
+	font-size:1.1em;
+	
+	}
+.menu-btn{
+	font-size:.9em;
+	width:80%;
+	background-color:white;
+	border: 2px solid #18335d;
+	margin: 0 0 .5em 3em;
+	color:#18335d;
+	}
+.advisors{
+text-align:center;
+position:relative;
+	margin: auto;
+	margin-bottom:1em;
+	width:90%;
+	right:15px;
+	}
+/*-- -- -- -- COntact Page-- -- -- --*/
+.contact-btn{
+	width:100%;
+	background-color:#18335d;
+	color:#ffce34;
+	margin:0 0 .4em 0;
+	}
+.contact-btn:hover{
+	color:#18335d;
+	background-color:white;
+	}}			
+
+
+/* -- -- -- Desktop Size-- -- -- --*/
+@media (min-width: 1000px){
+/*-- -- -- title -- -- --*/
+.jumbotron{
+	background-color:#18335d;
+	color:white;
+	padding:1em 0 0 0;
+	height:11em;
+	width:100%;
+	height:15em;
+	}
+.navbar{
+	background-color:#18335d;
+
+	}
+.logo{
+	width:100%;
+	border-top:3px solid #ffce34;
+	border-bottom:3px solid #ffce34;
+	float:left;
+	position:absolute;
+}
+img{
+	padding: 1em 0 0em 0;
+	height:50px;
+	margin:-1.4em 0 0em 0;
+	width:60px;
+	}
+/*-- dropdown --*/
+.dropdown{
+	
+	float:right;
+	}
+.glyphicon-th-list{
+	color:white;
+	padding:.8em 0 0 10em;
+	}
+.navbar-header{
+	padding: 1.9em 0 0 0em;
+	text-align:center;
+	display:inline;
+	}
+.navbar-header h1{
+	text-align:center;
+	
+	font-size:3em;
+	padding:1.5em 0 0 0;
+	text-transform:uppercase;
+}
+.navbar-header h3{
+	font-size:1.5em;
+	
+	padding:0 0 1em 0;
+	}
+ /*-- -- -- -- Table-- -- -- --*/
+ .container-table{
+	width:100%;
+	}
+  .table {
+ border:2px solid #131313;
+  width:100%;
+  }
+ .table h3{
+	font-size:1.5em;
+	color:#18335d;
+	margin: -.1em 0 .5em 0;
+	}
+ .table th{
+ border:2px solid #131313;
+	font-size:1em;
+	height:50px;
+	width:400px;
+	padding: 0 3em 0 0;
+	margin: 0 1em 0 0;
+	text-align:center;
+	background-color:#18335d;
+	color:#f4f5f5;
+	}
+.btn-sm{
+display:inline;
+	background-color:#00468b;
+	color:#f4f5f5;
+	font-size:1em;
+	padding: 0 -1em 0 0;
+	margin: 0 -1em .5em 0;
+	width:100%;
+	}
+.btn-sm:hover{
+	background-color:#59b6e6;
+	color:#f4f5f5;
+	border: 2px solid #59b6e6;
+	}
+
+.left-side{
+	width:70%;
+	}
+.right-side{
+	width:50%;
+	padding: 0 1em 0 0;
+	}
+ 
+/*-- -- -- -- Modals -- -- --*/
+.modal-title{
+	font-size:2em;
+	text-align:center;
+	}
+.modal-content{
+	color:white;
+	background-color: #18335d;
+	border:4px solid white;
+	}
+.modal-content a{
+	color: #00468b;
+	}
+.modal-content a:hover{
+	color: #ffce34;
+	}
+.modal-body {
+	background-color:#f4f5f5;
+	}
+.modal-body h4{
+	font-size:1.5em;
+	border-bottom:2px solid #00468b;
+	color: #00468b;
+	margin:0.5em 0 .5em 0;
+	
+	}
+	
+.modal-body h5{
+	color:#00468b;
+	font-size:1.1em;
+	
+	}
+.menu-btn{
+	font-size:1.1em;
+	width:14em;
+	background-color:#00468b;
+	
+	margin: 0 0 .5em 1em;
+	color:#f4f5f5;
+	text-align:center;
+	}
+
+.menu-btn:hover{
+	background-color:#59b6e6;
+	color:#f4f5f5;
+	border: 2px solid #59b6e6;
+	}
+
+.advisors{
+display:inline;
+	margin: 0 0 0 0em;
+float:right;
+	margin: auto;
+	margin-bottom:1em;
+	width:100%;
+	
+	
+	text-align:center;
+	
+	}
+/*-- -- -- -- COntact Page-- -- -- --*/
+.contact-btn{
+	width:100%;
+	background-color:#18335d;
+	border: 2px solid #18335d;
+	color:#ffce34;
+	margin:0 0 .4em 0;
+	}
+.contact-btn:hover{
+	color:#18335d;
+	background-color:white;
+	}
+.events a{
+	color:#f4f5f5;
+	}
+.events a:hover{
+	color:#18335d;
+	}
+.events:hover{
+	border: 2px solid #18335d;
+	background-color: #f4f5f5;
+	color:#18335d;
+	}}		
+
